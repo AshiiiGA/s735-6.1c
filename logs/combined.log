@@ -1,0 +1,4 @@
+{"level":"info","message":"Server is running on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Addition operation: 1 + 9 = 10","service":"calculator-microservice"}
+{"level":"info","message":"Addition operation: 1 + 0 = 1","service":"calculator-microservice"}
+{"level":"error","message":"Cannot divide by zero","params":{"num1":"1","num2":"0"},"service":"calculator-microservice"}
